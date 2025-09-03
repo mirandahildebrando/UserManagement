@@ -1,7 +1,8 @@
 package com.brando_project.UserManagement.entity;
 
-import org.springframework.boot.context.properties.bind.Name;
 
+
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
