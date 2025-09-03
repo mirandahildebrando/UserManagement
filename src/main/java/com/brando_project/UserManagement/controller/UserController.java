@@ -15,7 +15,7 @@ import com.brando_project.UserManagement.entity.User;
 import com.brando_project.UserManagement.service.UserService;
 
 @Controller
-@RequestMapping("/api/users")
+@RequestMapping("https://evident-carita-g23malhas-dd44508d.koyeb.app/api/users")
 public class UserController {
 
     private final UserService userService;
